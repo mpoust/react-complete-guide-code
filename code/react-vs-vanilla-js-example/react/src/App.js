@@ -5,6 +5,8 @@ function App() {
     <div>
       <h1>My Todos</h1>
       <Todo text='Learn React' />
+      <Todo text='Learn React again' />
+      <Todo text='Learn React Native' />
     </div>
   );
 }
